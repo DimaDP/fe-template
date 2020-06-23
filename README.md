@@ -1,1 +1,1 @@
-[DEMO](https://dimadp.github.io/fe_template/)
+[DEMO](https://dimadp.github.io/fe-template/)
